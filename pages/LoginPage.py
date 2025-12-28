@@ -15,4 +15,5 @@ class LoginPageLocators:
     YANDEX_BUTTON = (By.XPATH, '//*[@data-l="t,yandex"]')
 
 class LoginPageHelper:
+    pass
     
